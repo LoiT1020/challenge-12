@@ -27,8 +27,8 @@ VALUES
 ('Kali', 'Mclaughlin',3,4),
 ('Stan', 'Lee',2,NULL),
 ('Thor','Stormbreaker',6,NULL),
-('Samuel', 'Orozco'6,6),
-('Jannat', 'Howe'3,1),
-('Hadiqa', 'Moran'4,4),
-('Tanya', 'Fleming'5,7),
-('Wanda', 'Buxton'6,7);
+('Samuel', 'Orozco',6,6),
+('Jannat', 'Howe',3,1),
+('Hadiqa', 'Moran',4,4),
+('Tanya', 'Fleming',5,7),
+('Wanda', 'Buxton',6,7);
